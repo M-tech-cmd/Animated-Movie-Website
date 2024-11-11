@@ -12,4 +12,4 @@ CSS: To style the website and create visually appealing layouts.
 JavaScript: To add interactivity and dynamic content, making the website more engaging.
 Explore the world of animated movies with our beautifully crafted website, where every click brings a new adventure to life!
 
-![image alt](https://github.com/M-tech-cmd/Animated-Movie-Website/blob/d2955039c1177669b23ff0c3d52420ffeb20e2f7/bandicam%202024-11-11%2008-00-22-414.mp4)
+![video alt](https://github.com/M-tech-cmd/Animated-Movie-Website/blob/d2955039c1177669b23ff0c3d52420ffeb20e2f7/bandicam%202024-11-11%2008-00-22-414.mp4)
