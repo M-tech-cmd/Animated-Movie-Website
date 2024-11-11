@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/8c99eb4f-d62e-41a8-86f5-e03b9bc12184
 # Animated-Movie-Website
 Welcome to the Animated Movie Website, a vibrant and engaging platform designed to showcase the magic of animated films. Built using HTML, CSS, and JavaScript, this website offers a seamless and interactive user experience.
 Features:
